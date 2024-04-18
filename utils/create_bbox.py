@@ -110,6 +110,7 @@ def save_segmentation_and_bbox(inst_image_path, inst_json_path, segmentation_lab
         x,y,w,h = cv2.boundingRect(c) # COCO Bounding box: (x-top left, y-top left,width, height)
         bbox = [x, y, x+w, y+h]
         bbox_yolo = convert_coco_to_yolo(bbox, img_w, img_h)
+
     
     
         # save segmentation label
@@ -125,6 +126,14 @@ def save_segmentation_and_bbox(inst_image_path, inst_json_path, segmentation_lab
             file_object.close()
 
 def make_bbox(image_path, bbox_path, results_dir):
+
+    if not os.path.exists(bbox_path):
+    # Create the directory if it doesn't exist
+        os.makedirs(os.path.dirname(bbox_path), exist_ok=True)
+    # Create the empty bbox.txt file
+        with open(bbox_path, 'w') as file:
+            pass  # This will create an empty file
+
 
     image = cv2.imread(image_path)
 

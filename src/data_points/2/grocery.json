@@ -3,9 +3,9 @@
         "Jimmy_ginCherry.001": {
             "label": 1,
             "color": [
-                223,
-                225,
-                65
+                53,
+                191,
+                94
             ],
             "inst_id": 1
         }
@@ -14,17 +14,17 @@
         "Jimmy_cosmopolitan.001": {
             "label": 2,
             "color": [
-                193,
-                21,
-                195
+                137,
+                9,
+                252
             ],
             "inst_id": 2
         },
         "Jimmy_cosmopolitan.002": {
             "label": 5,
             "color": [
-                126,
-                175,
+                24,
+                139,
                 46
             ],
             "inst_id": 7
@@ -34,18 +34,18 @@
         "coolberg_strawberrybeer.001": {
             "label": 3,
             "color": [
-                157,
-                26,
-                35
+                216,
+                145,
+                171
             ],
             "inst_id": 3
         },
         "coolberg_strawberrybeer.002": {
             "label": 6,
             "color": [
-                49,
                 39,
-                48
+                163,
+                114
             ],
             "inst_id": 9
         }
@@ -54,45 +54,45 @@
         "coolberg_hawaii.001": {
             "label": 4,
             "color": [
-                20,
-                63,
-                121
+                55,
+                117,
+                8
             ],
             "inst_id": 4
         },
         "coolberg_hawaii.002": {
             "label": 4,
             "color": [
-                131,
-                148,
-                236
+                189,
+                156,
+                19
             ],
             "inst_id": 5
         },
         "coolberg_hawaii.003": {
             "label": 6,
             "color": [
-                218,
-                79,
-                158
+                32,
+                104,
+                216
             ],
             "inst_id": 10
         },
         "coolberg_hawaii.004": {
             "label": 6,
             "color": [
-                70,
-                24,
-                131
+                215,
+                155,
+                163
             ],
             "inst_id": 11
         },
         "coolberg_hawaii.005": {
             "label": 6,
             "color": [
-                13,
-                247,
-                234
+                250,
+                81,
+                249
             ],
             "inst_id": 17
         }
@@ -101,9 +101,9 @@
         "Jimmy_newOld.002": {
             "label": 5,
             "color": [
-                231,
-                191,
-                47
+                166,
+                96,
+                152
             ],
             "inst_id": 6
         }
@@ -112,9 +112,9 @@
         "coolberg_maltbeer.002": {
             "label": 6,
             "color": [
-                221,
-                15,
-                52
+                220,
+                16,
+                127
             ],
             "inst_id": 8
         }
@@ -123,36 +123,36 @@
         "campa_cola.001": {
             "label": 7,
             "color": [
-                131,
-                203,
-                86
+                65,
+                30,
+                10
             ],
             "inst_id": 19
         },
         "campa_cola.002": {
             "label": 10,
             "color": [
-                173,
-                116,
-                196
+                238,
+                164,
+                4
             ],
             "inst_id": 46
         },
         "campa_cola.004": {
             "label": 10,
             "color": [
-                225,
-                70,
-                28
+                46,
+                210,
+                156
             ],
             "inst_id": 47
         },
         "campa_cola.005": {
             "label": 10,
             "color": [
-                232,
-                253,
-                239
+                39,
+                119,
+                128
             ],
             "inst_id": 48
         },
@@ -164,18 +164,18 @@
         "campa_cola.006": {
             "label": 15,
             "color": [
-                40,
-                216,
-                0
+                255,
+                54,
+                246
             ],
             "inst_id": 92
         },
         "campa_cola.008": {
             "label": 15,
             "color": [
-                232,
-                95,
-                155
+                231,
+                15,
+                100
             ],
             "inst_id": 93
         }
@@ -184,9 +184,9 @@
         "pepsi.bottle": {
             "label": 8,
             "color": [
-                16,
-                75,
-                186
+                171,
+                226,
+                103
             ],
             "inst_id": 22
         },
@@ -198,99 +198,99 @@
         "pepsi.can": {
             "label": 12,
             "color": [
-                166,
-                35,
-                139
+                123,
+                181,
+                40
             ],
             "inst_id": 60
         },
         "pepsi.001": {
             "label": 15,
             "color": [
-                61,
-                90,
-                155
+                147,
+                202,
+                44
             ],
             "inst_id": 94
         },
         "pepsi.002": {
             "label": 16,
             "color": [
-                195,
-                45,
-                188
+                27,
+                252,
+                183
             ],
             "inst_id": 106
         },
         "pepsi.003": {
             "label": 16,
             "color": [
-                154,
-                245,
-                44
+                248,
+                198,
+                50
             ],
             "inst_id": 107
         },
         "pepsi.006": {
             "label": 16,
             "color": [
-                165,
-                6,
-                221
+                134,
+                244,
+                255
             ],
             "inst_id": 108
         },
         "pepsi.007": {
             "label": 16,
             "color": [
-                31,
-                123,
-                111
+                230,
+                226,
+                236
             ],
             "inst_id": 109
         },
         "pepsi.008": {
             "label": 16,
             "color": [
-                98,
-                208,
-                46
+                198,
+                32,
+                200
             ],
             "inst_id": 110
         },
         "pepsi.009": {
             "label": 16,
             "color": [
-                10,
-                75,
-                154
+                250,
+                177,
+                161
             ],
             "inst_id": 111
         },
         "pepsi.010": {
             "label": 16,
             "color": [
-                166,
-                161,
-                225
+                217,
+                22,
+                139
             ],
             "inst_id": 112
         },
         "pepsi.011": {
             "label": 16,
             "color": [
-                196,
-                95,
-                224
+                159,
+                44,
+                179
             ],
             "inst_id": 113
         },
         "pepsi.012": {
             "label": 16,
             "color": [
-                21,
-                112,
-                238
+                255,
+                96,
+                104
             ],
             "inst_id": 114
         }
@@ -299,9 +299,9 @@
         "fanta.bottle": {
             "label": 9,
             "color": [
-                59,
-                167,
-                115
+                74,
+                11,
+                28
             ],
             "inst_id": 30
         }
@@ -310,36 +310,36 @@
         "mountainDew.004": {
             "label": 10,
             "color": [
-                107,
-                178,
-                220
+                20,
+                253,
+                11
             ],
             "inst_id": 32
         },
         "mountainDew.002": {
             "label": 10,
             "color": [
-                183,
-                161,
-                227
+                41,
+                249,
+                129
             ],
             "inst_id": 33
         },
         "mountainDew.003": {
             "label": 10,
             "color": [
-                136,
-                207,
-                255
+                113,
+                78,
+                46
             ],
             "inst_id": 34
         },
         "mountainDew.005": {
             "label": 10,
             "color": [
-                205,
-                149,
-                176
+                11,
+                12,
+                97
             ],
             "inst_id": 35
         }
@@ -348,9 +348,9 @@
         "jeeru.001": {
             "label": 11,
             "color": [
-                174,
-                67,
-                143
+                234,
+                199,
+                213
             ],
             "inst_id": 50
         },
@@ -362,9 +362,9 @@
         "jeeru.003": {
             "label": 11,
             "color": [
-                176,
-                170,
-                151
+                8,
+                6,
+                192
             ],
             "inst_id": 52
         }
@@ -383,18 +383,18 @@
         "pepsi_black.004": {
             "label": 12,
             "color": [
-                198,
-                180,
-                120
+                162,
+                116,
+                233
             ],
             "inst_id": 56
         },
         "pepsi_black.005": {
             "label": 12,
             "color": [
-                108,
-                230,
-                19
+                212,
+                205,
+                203
             ],
             "inst_id": 57
         },
@@ -413,9 +413,9 @@
         "cocacola_can.001": {
             "label": 13,
             "color": [
-                99,
-                49,
-                53
+                48,
+                41,
+                129
             ],
             "inst_id": 65
         }
@@ -424,9 +424,9 @@
         "campa_orange.001": {
             "label": 14,
             "color": [
-                224,
-                52,
-                170
+                59,
+                195,
+                43
             ],
             "inst_id": 71
         }
@@ -450,36 +450,36 @@
         "campa_yellow.004": {
             "label": 15,
             "color": [
-                234,
-                145,
-                18
+                15,
+                82,
+                216
             ],
             "inst_id": 76
         },
         "campa_yellow.005": {
             "label": 15,
             "color": [
-                79,
-                127,
-                218
+                193,
+                3,
+                223
             ],
             "inst_id": 77
         },
         "campa_yellow.006": {
             "label": 15,
             "color": [
-                197,
-                28,
-                201
+                190,
+                27,
+                65
             ],
             "inst_id": 78
         },
         "campa_yellow.007": {
             "label": 15,
             "color": [
-                240,
-                101,
-                177
+                102,
+                150,
+                21
             ],
             "inst_id": 79
         }
@@ -488,90 +488,90 @@
         "thumsUp.001": {
             "label": 16,
             "color": [
-                119,
-                101,
-                9
+                23,
+                222,
+                77
             ],
             "inst_id": 97
         },
         "thumsUp.002": {
             "label": 16,
             "color": [
-                154,
-                195,
-                207
+                205,
+                131,
+                149
             ],
             "inst_id": 98
         },
         "thumsUp.003": {
             "label": 16,
             "color": [
-                227,
-                14,
-                96
+                211,
+                71,
+                70
             ],
             "inst_id": 99
         },
         "thumsUp.004": {
             "label": 16,
             "color": [
-                230,
-                35,
-                102
+                164,
+                134,
+                180
             ],
             "inst_id": 100
         },
         "thumsUp.007": {
             "label": 16,
             "color": [
-                56,
-                139,
-                225
+                253,
+                157,
+                24
             ],
             "inst_id": 101
         },
         "thumsUp.008": {
             "label": 16,
             "color": [
-                194,
-                135,
-                2
+                226,
+                203,
+                130
             ],
             "inst_id": 102
         },
         "thumsUp.009": {
             "label": 16,
             "color": [
-                157,
-                120,
-                189
+                64,
+                250,
+                174
             ],
             "inst_id": 103
         },
         "thumsUp.010": {
             "label": 16,
             "color": [
-                143,
-                161,
-                66
+                86,
+                28,
+                118
             ],
             "inst_id": 104
         },
         "thumsUp.011": {
             "label": 16,
             "color": [
-                164,
-                87,
-                135
+                195,
+                59,
+                223
             ],
             "inst_id": 105
         },
         "thumsUp.bottle": {
             "label": 17,
             "color": [
-                237,
-                129,
-                228
+                234,
+                21,
+                18
             ],
             "inst_id": 122
         }
@@ -580,9 +580,9 @@
         "cocacola.bottle": {
             "label": 17,
             "color": [
-                106,
-                240,
-                13
+                178,
+                205,
+                106
             ],
             "inst_id": 116
         }
