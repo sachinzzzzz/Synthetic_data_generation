@@ -1,0 +1,590 @@
+{
+    "Jimmy_ginCherry": {
+        "Jimmy_ginCherry.001": {
+            "label": 1,
+            "color": [
+                123,
+                124,
+                36
+            ],
+            "inst_id": 1
+        }
+    },
+    "Jimmy_cosmopolitan": {
+        "Jimmy_cosmopolitan.001": {
+            "label": 2,
+            "color": [
+                123,
+                135,
+                189
+            ],
+            "inst_id": 2
+        },
+        "Jimmy_cosmopolitan.002": {
+            "label": 5,
+            "color": [
+                91,
+                76,
+                226
+            ],
+            "inst_id": 7
+        }
+    },
+    "coolberg_strawberrybeer": {
+        "coolberg_strawberrybeer.001": {
+            "label": 3,
+            "color": [
+                166,
+                54,
+                70
+            ],
+            "inst_id": 3
+        },
+        "coolberg_strawberrybeer.002": {
+            "label": 6,
+            "color": [
+                79,
+                36,
+                96
+            ],
+            "inst_id": 9
+        }
+    },
+    "coolberg_hawaii": {
+        "coolberg_hawaii.001": {
+            "label": 4,
+            "color": [
+                137,
+                163,
+                36
+            ],
+            "inst_id": 4
+        },
+        "coolberg_hawaii.002": {
+            "label": 4,
+            "color": [
+                137,
+                252,
+                115
+            ],
+            "inst_id": 5
+        },
+        "coolberg_hawaii.003": {
+            "label": 6,
+            "color": [
+                82,
+                227,
+                79
+            ],
+            "inst_id": 10
+        },
+        "coolberg_hawaii.004": {
+            "label": 6,
+            "color": [
+                20,
+                224,
+                197
+            ],
+            "inst_id": 11
+        },
+        "coolberg_hawaii.005": {
+            "label": 6,
+            "color": [
+                144,
+                152,
+                44
+            ],
+            "inst_id": 17
+        }
+    },
+    "Jimmy_newOld": {
+        "Jimmy_newOld.002": {
+            "label": 5,
+            "color": [
+                151,
+                63,
+                61
+            ],
+            "inst_id": 6
+        }
+    },
+    "coolberg_maltbeer": {
+        "coolberg_maltbeer.002": {
+            "label": 6,
+            "color": [
+                205,
+                240,
+                145
+            ],
+            "inst_id": 8
+        }
+    },
+    "campa_cola": {
+        "campa_cola.001": {
+            "label": 7,
+            "color": [
+                0,
+                70,
+                143
+            ],
+            "inst_id": 19
+        },
+        "campa_cola.002": {
+            "label": 10,
+            "color": [
+                247,
+                102,
+                202
+            ],
+            "inst_id": 46
+        },
+        "campa_cola.004": {
+            "label": 10,
+            "color": [
+                154,
+                254,
+                208
+            ],
+            "inst_id": 47
+        },
+        "campa_cola.005": {
+            "label": 10,
+            "color": [
+                65,
+                50,
+                253
+            ],
+            "inst_id": 48
+        },
+        "campa_cola.can": {
+            "label": 13,
+            "color": [],
+            "inst_id": 66
+        },
+        "campa_cola.006": {
+            "label": 15,
+            "color": [
+                127,
+                93,
+                61
+            ],
+            "inst_id": 92
+        },
+        "campa_cola.008": {
+            "label": 15,
+            "color": [
+                32,
+                177,
+                29
+            ],
+            "inst_id": 93
+        }
+    },
+    "pepsi": {
+        "pepsi.bottle": {
+            "label": 8,
+            "color": [
+                110,
+                63,
+                40
+            ],
+            "inst_id": 22
+        },
+        "pepsi.zeroSugar": {
+            "label": 8,
+            "color": [],
+            "inst_id": 23
+        },
+        "pepsi.can": {
+            "label": 12,
+            "color": [
+                28,
+                123,
+                62
+            ],
+            "inst_id": 60
+        },
+        "pepsi.001": {
+            "label": 15,
+            "color": [
+                226,
+                137,
+                14
+            ],
+            "inst_id": 94
+        },
+        "pepsi.002": {
+            "label": 16,
+            "color": [
+                164,
+                53,
+                88
+            ],
+            "inst_id": 106
+        },
+        "pepsi.003": {
+            "label": 16,
+            "color": [
+                142,
+                82,
+                33
+            ],
+            "inst_id": 107
+        },
+        "pepsi.006": {
+            "label": 16,
+            "color": [
+                228,
+                11,
+                109
+            ],
+            "inst_id": 108
+        },
+        "pepsi.007": {
+            "label": 16,
+            "color": [
+                164,
+                252,
+                62
+            ],
+            "inst_id": 109
+        },
+        "pepsi.008": {
+            "label": 16,
+            "color": [
+                10,
+                102,
+                15
+            ],
+            "inst_id": 110
+        },
+        "pepsi.009": {
+            "label": 16,
+            "color": [
+                154,
+                141,
+                190
+            ],
+            "inst_id": 111
+        },
+        "pepsi.010": {
+            "label": 16,
+            "color": [
+                25,
+                54,
+                60
+            ],
+            "inst_id": 112
+        },
+        "pepsi.011": {
+            "label": 16,
+            "color": [
+                203,
+                79,
+                102
+            ],
+            "inst_id": 113
+        },
+        "pepsi.012": {
+            "label": 16,
+            "color": [
+                211,
+                113,
+                50
+            ],
+            "inst_id": 114
+        }
+    },
+    "fanta": {
+        "fanta.bottle": {
+            "label": 9,
+            "color": [
+                111,
+                94,
+                216
+            ],
+            "inst_id": 30
+        }
+    },
+    "mountainDew": {
+        "mountainDew.004": {
+            "label": 10,
+            "color": [
+                184,
+                76,
+                54
+            ],
+            "inst_id": 32
+        },
+        "mountainDew.002": {
+            "label": 10,
+            "color": [
+                202,
+                153,
+                49
+            ],
+            "inst_id": 33
+        },
+        "mountainDew.003": {
+            "label": 10,
+            "color": [
+                112,
+                251,
+                54
+            ],
+            "inst_id": 34
+        },
+        "mountainDew.005": {
+            "label": 10,
+            "color": [
+                221,
+                1,
+                69
+            ],
+            "inst_id": 35
+        }
+    },
+    "jeeru": {
+        "jeeru.001": {
+            "label": 11,
+            "color": [
+                104,
+                130,
+                107
+            ],
+            "inst_id": 50
+        },
+        "jeeru.002": {
+            "label": 11,
+            "color": [],
+            "inst_id": 51
+        },
+        "jeeru.003": {
+            "label": 11,
+            "color": [
+                62,
+                24,
+                173
+            ],
+            "inst_id": 52
+        }
+    },
+    "pepsi_black": {
+        "pepsi_black.002": {
+            "label": 12,
+            "color": [],
+            "inst_id": 54
+        },
+        "pepsi_black.003": {
+            "label": 12,
+            "color": [],
+            "inst_id": 55
+        },
+        "pepsi_black.004": {
+            "label": 12,
+            "color": [
+                43,
+                177,
+                210
+            ],
+            "inst_id": 56
+        },
+        "pepsi_black.005": {
+            "label": 12,
+            "color": [
+                199,
+                74,
+                54
+            ],
+            "inst_id": 57
+        },
+        "pepsi_black.007": {
+            "label": 12,
+            "color": [],
+            "inst_id": 58
+        },
+        "pepsi_black.010": {
+            "label": 12,
+            "color": [],
+            "inst_id": 59
+        }
+    },
+    "cocacola_can": {
+        "cocacola_can.001": {
+            "label": 13,
+            "color": [
+                19,
+                14,
+                226
+            ],
+            "inst_id": 65
+        }
+    },
+    "campa_orange": {
+        "campa_orange.001": {
+            "label": 14,
+            "color": [
+                2,
+                6,
+                87
+            ],
+            "inst_id": 71
+        }
+    },
+    "campa_yellow": {
+        "campa_yellow.001": {
+            "label": 15,
+            "color": [],
+            "inst_id": 73
+        },
+        "campa_yellow.002": {
+            "label": 15,
+            "color": [],
+            "inst_id": 74
+        },
+        "campa_yellow.003": {
+            "label": 15,
+            "color": [],
+            "inst_id": 75
+        },
+        "campa_yellow.004": {
+            "label": 15,
+            "color": [
+                147,
+                9,
+                23
+            ],
+            "inst_id": 76
+        },
+        "campa_yellow.005": {
+            "label": 15,
+            "color": [
+                155,
+                135,
+                138
+            ],
+            "inst_id": 77
+        },
+        "campa_yellow.006": {
+            "label": 15,
+            "color": [
+                93,
+                29,
+                85
+            ],
+            "inst_id": 78
+        },
+        "campa_yellow.007": {
+            "label": 15,
+            "color": [
+                184,
+                53,
+                131
+            ],
+            "inst_id": 79
+        }
+    },
+    "thumsUp": {
+        "thumsUp.001": {
+            "label": 16,
+            "color": [
+                87,
+                3,
+                72
+            ],
+            "inst_id": 97
+        },
+        "thumsUp.002": {
+            "label": 16,
+            "color": [
+                110,
+                79,
+                224
+            ],
+            "inst_id": 98
+        },
+        "thumsUp.003": {
+            "label": 16,
+            "color": [
+                242,
+                219,
+                4
+            ],
+            "inst_id": 99
+        },
+        "thumsUp.004": {
+            "label": 16,
+            "color": [
+                247,
+                239,
+                84
+            ],
+            "inst_id": 100
+        },
+        "thumsUp.007": {
+            "label": 16,
+            "color": [
+                39,
+                129,
+                95
+            ],
+            "inst_id": 101
+        },
+        "thumsUp.008": {
+            "label": 16,
+            "color": [
+                204,
+                111,
+                166
+            ],
+            "inst_id": 102
+        },
+        "thumsUp.009": {
+            "label": 16,
+            "color": [
+                73,
+                235,
+                35
+            ],
+            "inst_id": 103
+        },
+        "thumsUp.010": {
+            "label": 16,
+            "color": [
+                140,
+                10,
+                172
+            ],
+            "inst_id": 104
+        },
+        "thumsUp.011": {
+            "label": 16,
+            "color": [
+                99,
+                146,
+                120
+            ],
+            "inst_id": 105
+        },
+        "thumsUp.bottle": {
+            "label": 17,
+            "color": [
+                159,
+                145,
+                92
+            ],
+            "inst_id": 122
+        }
+    },
+    "cocacola": {
+        "cocacola.bottle": {
+            "label": 17,
+            "color": [
+                94,
+                84,
+                71
+            ],
+            "inst_id": 116
+        }
+    }
+}
