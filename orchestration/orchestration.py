@@ -37,6 +37,4 @@ def orchestration():
     train_test.split_it(input_dir, output_train_dir, output_test_dir)
 
 
-    # bbox.save_segmentation_and_bbox(inst_image_path, inst_json_path, segmentation_label_path, bbox_label_path)
-    # bbox.make_bbox(rgb_path, bbox_label_path, res_bbox)
     print("orchestration successfull")
