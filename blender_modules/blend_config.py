@@ -5,9 +5,12 @@ import json
 import cv2
 import numpy as np
 import random
-import blend_config
+from blend_config import Camera
 
-class Blendfile:
+
+
+
+class Blendfile(Camera):
     def __init__(self, file_path):
         self.path =  file_path
 
@@ -85,47 +88,11 @@ class Blendfile:
 
     def light_config():
         # light variations
-        return            
+        return
+
+class Camera:
+    def __init__(self, name):
+        self.name  = name               
         
 
     
-# blend_file = Blendfile(r"E:\3D+animation\dataline\blenderFiles\W12001 3d Twin.blend") 
-# result = blend_file.load_blend_file()
-# blend_file.make_json(r"E:\3D+animation\dataline\src\grocery.json", result[1])
-# masks = bpycv.render_data()
-
-# cwd = r"E:\3D+animation\dataline"
-# print(cwd)
-# rgb_path = f"{cwd}/src/data_points/1/rgb.png"
-# color_inst_path = f"{cwd}/src/data_points/1/color_inst.png"
-# inst_path = f"{cwd}/src/data_points/1/instance.png"
-# depth_path = f"{cwd}/src/data_points/1/depth.png"
-# vis_path = f"{cwd}/src/data_points/1/vis.png"
-
-# cv2.imwrite(rgb_path, masks["image"][..., ::-1])
-# masks_image  = rgb_path, masks["image"][..., ::-1]
-
-
-# instance_mask = masks["inst"]
-# colored_mask = np.zeros_like(masks["image"])
-# visualize = blend_file.visualize_instance(colored_mask, instance_mask)
-# cv2.imwrite(color_inst_path, visualize)
-# cv2.imwrite(vis_path, cv2.cvtColor(masks.vis(), cv2.COLOR_RGB2BGR))
-
-
-# # Save RGB image
-# cv2.imwrite(rgb_path, masks["image"][..., ::-1])
-# masks_rgb =  masks["image"][..., ::-1]
-
-# # Save instance map as 16-bit png
-# cv2.imwrite(inst_path, np.uint16(masks["inst"]))
-
-# # Convert depth units from meters to millimeters and save as 16-bit png
-# depth_in_mm = masks["depth"] * 1000
-# cv2.imwrite(depth_path, np.uint16(depth_in_mm))
-# print("Instance map and depth image saved.")
-
-
-
-# print(result[1])
- 
